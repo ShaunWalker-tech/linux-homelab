@@ -78,5 +78,5 @@ hostnamectl
 ip addr
 getenforce
 systemctl status firewalld
- dnf update -y
+dnf update -y
 
