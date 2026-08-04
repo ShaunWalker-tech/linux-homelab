@@ -69,6 +69,7 @@ Completed:
 - Checked IP address
 - Verified SELinux status
 - Checked firewall status
+- updated system
 
 Commands used:
 
@@ -77,3 +78,5 @@ hostnamectl
 ip addr
 getenforce
 systemctl status firewalld
+ dnf update -y
+
