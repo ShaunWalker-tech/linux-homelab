@@ -69,7 +69,7 @@ Completed:
 - Checked IP address
 - Verified SELinux status
 - Checked firewall status
-- updated system
+- Updated system
 
 Commands used:
 
