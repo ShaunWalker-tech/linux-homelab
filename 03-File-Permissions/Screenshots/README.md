@@ -1,4 +1,4 @@
 # Screenshots
 
-This folder contains screenshots documenting the File and permissions configuration process.
+This folder contains screenshots documenting the File and Permissions configuration process.
 
